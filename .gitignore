@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Needle datasets
+data/raw/
+data/processed/
+
+# Local secrets
+.env
